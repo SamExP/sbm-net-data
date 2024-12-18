@@ -13,7 +13,7 @@ Copy and customize the JSON structure below for each mod you want to add:
   "discord": "https://discord.gg/epic-skyblock-mod",
   "developers": "epic_mod_developer",
   "paid": false,
-  "icon": "https://imgur.com/image91984239204.png",
+  "icon": "https://imgur.com/image123.png",
   "website": "https://google.com",
   "github": "https://github.com/",
   "tags": ["popular", "fps"]
@@ -53,7 +53,7 @@ Copy and customize the JSON structure below for each mod you want to add:
 - "website" (optional):
    - A link to the mod’s website.
    - If there is no link, delete this line.
-   - Example: "website": "https://google.com"
+   - Example: "website": "https://skyblockmods.net"
 
 - "github" (optional):
    - A GitHub repository link for the mod.
@@ -62,6 +62,7 @@ Copy and customize the JSON structure below for each mod you want to add:
 
 - "tags" (required):
    - Tags describing the mod.
-   - Rules: Include 1-2 descriptive tags.
+   - Rules: Include 1 descriptive tag, such as dungeons, slayer, etc.
+   - If the mod is a skyblock mod, include "skyblock" as a tag.
    - If the mod is a cheat mod, include "cheats" as a tag.
    - Example: "tags": ["skyblock", "dungeons"]
