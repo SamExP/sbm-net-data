@@ -1,6 +1,6 @@
 [ 
   {
-    "id": "odinclient",
+    "id": "odinclient", 
     "name": "OdinClient",
     "discord": "https://discord.gg/Pk9gXWY5Hd",
     "developers": "odtheking",
@@ -130,7 +130,7 @@
   },
   {
     "id": "chattriggers",
-    "name": "ChatTriggers",
+    "name": "ChatTriggers new test",
     "discord": "discord.gg/chattriggers",
     "developers": "FalseHonesty, Ecolsson, kerbybit",
     "paid": false,
