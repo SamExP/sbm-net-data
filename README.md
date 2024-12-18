@@ -1,16 +1,45 @@
-very simple guide to adding mods
+- "id" (required):
+   - The unique identifier for the mod.
+   - Rules: No spaces. Use dashes (-) instead.
+   - Example: "id": "example-mod"
 
-  {
-    "id": "mod-name", # this is the mod id, its no different than the name, except for the fact there should not be any spaces in it (this is not displayed to the user)#*
-    "name": "mod name", # this is the mod name, it is shown on the website to the user #
-    "discord": "https://discord.gg/epic-skyblock-mod", # discord link, this field is not required, so if there is no discord link this line should be deleted #
-    "developers": "epic_mod_develoepr", # developer name(s) #
-    "paid": false, # true = paid, false = not paid #
-    "price": "1.00", # if paid is false, this line should be deleted, otherwise if paid is true, a cost should be included #
-    "icon": "https://imgur.com/image91984239204.png", # if the mod developer has a github or some online profile, right click on their avatar / profile picture and click 'copy image address' and put it here; Or if the mod has a logo, use that image instead # 
-    "website": "https://google.com", # website link, this field is not required, so if there is no website link this line should be deleted #
-    "github": "https://github.com/", # github link, this field is not required, so if there is no github link this line should be deleted #
-    "tags": ["popular", "fps"] # what describes this mod? if skyblock put 'skyblock', and 1 other tag that describes it the most (ex. dungeon mod put 'dungeons'). If it is a cheat mod the "cheats" tag is required
-  }
+- "name" (required):
+   - The display name of the mod. This is shown to users.
+   - Example: "name": "Example Mod"
 
-  after editing this insert it into the right json file and make sure there are commas after the curly bracket '}', look at the files to see how it is supposed to look like
+- "discord" (optional):
+   - A Discord link for the mod or developer's community.
+   - If there is no link, delete this line.
+   - Example: "discord": "https://discord.gg/yourlink"
+
+- "developers" (required):
+   - The name(s) of the mod developer(s).
+   - Example: "developers": "epic_mod_developer"
+
+- "paid" (required):
+   - Set to true if the mod is paid; otherwise, set to false.
+   - Example: "paid": false
+
+- "price" (conditionally required):
+   - Include only if "paid" is set to true.
+   - Example: "price": "1.00"
+
+- "icon" (optional):
+   - A direct image URL for the mod's icon or developer's avatar.
+   - Example: "icon": "https://imgur.com/image123.png"
+
+- "website" (optional):
+   - A link to the mod’s website.
+   - If there is no link, delete this line.
+   - Example: "website": "https://google.com"
+
+- "github" (optional):
+   - A GitHub repository link for the mod.
+   - If there is no link, delete this line.
+   - Example: "github": "https://github.com/"
+
+- "tags" (required):
+   - Tags describing the mod.
+   - Rules: Include 1-2 descriptive tags.
+   - If the mod is a cheat mod, include "cheats" as a tag.
+   - Example: "tags": ["skyblock", "dungeons"]
