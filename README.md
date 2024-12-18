@@ -1,6 +1,6 @@
 # Guide to Adding Mods
 
-Follow this guide to add mods to the correct JSON file. Ensure all required fields are correctly filled out and formatted.
+Follow this guide to add mods to the correct JSON file. Ensure all required fields are correctly filled out and formatted. When all fields are filled out and you are ready to contribute, do not forget about the commas after the curly brackets.
 
 ## Mod Entry Template
 
