@@ -12,6 +12,16 @@
     "tags": ["skyblock", "cheats"]
   },
   {
+    "id": "odinclient", 
+    "name": "OdinClient",
+    "discord": "https://discord.gg/2nCbC9hkxT",
+    "developers": "odtheking",
+    "paid": false,
+    "icon": "https://i.imgur.com/bULLRVc.png", 
+    "website": "https://odtheking.github.io/Odin/cheater",
+    "tags": ["skyblock", "cheats"]
+  },
+  {
     "id": "quicker-flipper",
     "name": "QF",
     "discord": "https://discord.gg/VymP3ujFAC",
