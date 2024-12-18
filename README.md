@@ -1,3 +1,25 @@
+# Guide to Adding Mods
+
+Follow this guide to add mods to the correct JSON file. Ensure all required fields are correctly filled out and formatted.
+
+## Mod Entry Template
+
+Copy and customize the JSON structure below for each mod you want to add:
+
+```json
+{
+  "id": "mod-name", 
+  "name": "mod name",
+  "discord": "https://discord.gg/epic-skyblock-mod",
+  "developers": "epic_mod_developer",
+  "paid": false,
+  "icon": "https://imgur.com/image91984239204.png",
+  "website": "https://google.com",
+  "github": "https://github.com/",
+  "tags": ["popular", "fps"]
+}
+
+
 - "id" (required):
    - The unique identifier for the mod.
    - Rules: No spaces. Use dashes (-) instead.
