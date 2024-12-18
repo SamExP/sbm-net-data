@@ -47,7 +47,7 @@ Copy and customize the JSON structure below for each mod you want to add:
    - Example: "price": "1.00"
 
 - "icon" (optional):
-   - A direct image URL for the mod's icon or developer's avatar.
+   - A direct image URL for the mod's icon or developer's avatar (Right click on their icon/avatar, copy image address).
    - Example: "icon": "https://imgur.com/image123.png"
 
 - "website" (optional):
