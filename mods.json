@@ -1,0 +1,325 @@
+[ 
+  {
+    "id": "odinclient",
+    "name": "OdinClient",
+    "discord": "https://discord.gg/Pk9gXWY5Hd",
+    "developers": "odtheking",
+    "paid": false,
+    "icon": "https://i.imgur.com/bULLRVc.png", 
+    "tags": ["skyblock"]
+  },
+  {
+    "id": "oneconfig",
+    "name": "Polyfrost",
+    "discord": "https://inv.wtf/polyfrost",
+    "developers": "Polyfrost Team",
+    "paid": false,
+    "icon": "https://imgur.com/HPrBpF9.png", 
+    "github": "https://github.com/Polyfrost/OneConfig",
+    "tags": ["fps", "pvp"] 
+  },
+  {
+    "id": "dulkirmod",
+    "name": "DulkirMod",
+    "developers": "glettronald, hannibal002, GodOfProDev",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/71849533?v=4", 
+    "github": "https://github.com/inglettronald/DulkirMod", 
+    "tags": ["popular", "skyblock"]
+  },
+  {
+    "id": "togglechat",
+    "name": "ToggleChat",
+    "developers": "boomboompower",
+    "paid": false,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg",
+    "github": "https://github.com/boomboompower/ToggleChat",
+    "tags": ["skyblock", "discontinued"]
+  },
+  {
+    "id": "nick-hider",
+    "name": "Nick Hider",
+    "discord": "https://discord.gg/sk1er",
+    "developers": "Sk1er",
+    "paid": false,
+    "icon": "https://imgur.com/YhHaso1.png",
+    "website": "https://sk1er.club/mods/nick_hider",
+    "tags": ["pvp"]
+  },
+  {
+    "id": "skypixel",
+    "name": "Skypixel",
+    "developers": "prplz",
+    "paid": false,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg",
+    "github": "https://github.com/prplz/Skypixel",
+    "tags": ["skyblock", "discontinued"]
+  },
+  {
+    "id": "blockoverlay",
+    "name": "Block Overlay",
+    "developers": "Aycy",
+    "paid": false,
+    "icon": "https://forumassets.hypixel.net/data/avatars/m/1243/1243935.jpg?1578010217",
+    "website": "https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/",
+    "tags": ["skyblock"]
+  },
+  {
+    "id": "pownstogglesneak",
+    "name": "Powns' ToggleSneak Mod",
+    "discord": "https://download.powns.dev/togglesneak189",
+    "developers": "Powns",
+    "paid": false,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg",
+    "website": "https://www.curseforge.com/minecraft/mc-mods/togglesneak/",
+    "tags": ["pvp"]
+  },
+  {
+    "id": "autotip",
+    "name": "Autotip",
+    "discord": "https://discord.gg/sk1er",
+    "developers": "Semx11, 2Pi, Sk1er",
+    "paid": false,
+    "icon": "https://imgur.com/YhHaso1.png",
+    "website": "https://autotip.pro/", 
+    "github": "https://github.com/Semx11/Autotip", 
+    "tags": ["pvp"]
+  },
+  {
+    "id": "powns-mods",
+    "name": "Powns mods",
+    "discord": "https://discord.gg/VvFxmbn3",
+    "developers": "Powns",
+    "paid": false,
+    "icon": "https://imgur.com/u5X9OqP.png",
+    "website": "https://download.powns.dev",
+    "github": "https://github.com/pownsgg", 
+    "tags": ["pvp", "fps"]
+  },
+  {
+    "id": "itlt",
+    "name": "It's The Little Things",
+    "discord": "",
+    "developers": "Zlepper, Paint_Ninja",
+    "paid": false,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg",
+    "website": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/",
+    "github": "https://github.com/zlepper/itlt",
+    "tags": ["fps"]
+  },
+  {
+    "id": "scrollable-tooltips",
+    "name": "Scrollable Tooltips",
+    "discord": "https://discord.gg/sk1er",
+    "developers": "Sk1er",
+    "paid": false,
+    "icon": "https://imgur.com/YhHaso1.png",
+    "website": "https://sk1er.club/mods/text_overflow_scroll",
+    "github": "https://github.com/Sk1erLLC/ScrollableTooltips",
+    "tags": ["popular", "fps"]
+  },
+  {
+    "id": "patcher",
+    "name": "Patcher",
+    "discord": "https://discord.gg/sk1er",
+    "developers": "Sk1er",
+    "paid": false,
+    "icon": "https://imgur.com/YhHaso1.png",
+    "website": "https://sk1er.club/mods/patcher",
+    "tags": ["popular","fps"]
+  },
+  {
+    "id": "chattriggers",
+    "name": "ChatTriggers",
+    "discord": "discord.gg/chattriggers",
+    "developers": "FalseHonesty, Ecolsson, kerbybit",
+    "paid": false,
+    "icon": "https://imgur.com/qMURfpp.png",
+    "website": "https://www.chattriggers.com",
+    "github": "https://github.com/ChatTriggers/ChatTriggers",
+    "tags": ["popular", "ct", "chattriggers"]
+  },
+  {
+    "id": "TEM",
+    "name": "The Exotics Mod",
+    "discord": "https://discord.gg/zkTSE6r6xV",
+    "developers": "TGWaffles, Orenico",
+    "paid": false,
+    "icon": "https://imgur.com/VBYqhUB.png",
+    "website": "https://tem.cx/",
+    "tags": ["skyblock"]
+  },
+  {
+    "id": "CoflSky",
+    "name": "CoflSky",
+    "discord": "https://discord.gg/JMTCGTTN3S",
+    "developers": "Äkwav",
+    "paid": true,
+    "price": "7.00",
+    "icon": "https://imgur.com/6wFW1NY.png",
+    "website": "https://sky.coflnet.com/",
+    "github": "https://github.com/Coflnet/SkyblockMod/",
+    "tags": ["popular", "skyblock", "paid"]
+  },
+  {
+    "id": "aliaddons",
+    "name": "AliAddons",
+    "discord": "https://discord.gg/ubvBzRUx3w",
+    "developers": "Alifarce",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg",
+    "tags": ["skyblock", "ct", "chattriggers"]
+  },
+  {
+    "id": "skyblock-extras",
+    "name": "Skyblock Extras",
+    "discord": "https://discord.gg/sbe",
+    "developers": "AlphaElite",
+    "paid": true,
+    "price": "5.00",
+    "icon": "https://i.imgur.com/11ELob9.png",
+    "website": "https://skyblockextras.com",
+    "tags": ["popular", "skyblock", "paid"]
+  },
+  {
+    "id": "skytils",
+    "name": "Skytils",
+    "discord": "https://discord.gg/skytils",
+    "developers": "Sychic, lily",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/78452287",
+    "github": "https://github.com/Skytils/SkytilsMod/releases",
+    "tags": ["popular", "skyblock"]
+  },
+  {
+    "id": "skyblockcatia",
+    "name": "Skyblock Catia",
+    "developers": "SteveKunG",
+    "paid": false,
+    "icon": "https://media.forgecdn.net/avatars/288/186/637310718220929564.png",
+    "github": "https://github.com/SteveKunG/SkyBlockcatia",
+    "tags": ["skyblock", "discontinued"]
+  },
+  {
+    "id": "skyblockaddons",
+    "name": "Skyblock Addons",
+    "discord": "https://discord.gg/FvhWJH2b5b",
+    "developers": "Biscuit",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/56459009",
+    "website": "https://biscuit.codes/mods/skyblockaddons/",
+    "github": "https://github.com/BiscuitDevelopment/SkyblockAddons",
+    "tags": ["popular", "skyblock", "discontinued"]
+  },
+  {
+    "id": "soopyv2",
+    "name": "SoopyV2",
+    "developers": "Soopyboo32",
+    "paid": false,
+    "icon": "https://imgur.com/xj03fye.png",
+    "github": "https://github.com/Soopyboo32/SoopyV2",
+    "discord": "https://discord.com/invite/dfSMq96RSN",
+    "website": "https://soopy.dev",
+    "tags": ["popular", "skyblock", "discontinued", "ct", "chattriggers"]
+  },
+  {
+    "id": "notenoughupdates",
+    "name": "NotEnoughUpdates",
+    "discord": "https://discord.gg/moulberry",
+    "developers": "Moulberry, Nea, Jani",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/12858993",
+    "github": "https://github.com/NotEnoughUpdates/NotEnoughUpdates",
+    "tags": ["popular", "skyblock"]
+  },
+  {
+    "id": "hychat",
+    "name": "Hychat",
+    "developers": "Moulberry",
+    "discord": "https://discord.gg/moulberry",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/12858993",
+    "github": "https://github.com/Moulberry/Hychat",
+    "tags": ["popular", "skyblock"]
+  },
+  {
+    "id": "hyaddons",
+    "name": "HyAddons",
+    "developers": "jxxe",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/86937238",
+    "github": "https://github.com/HyAddons/HyAddons",
+    "tags": ["skyblock", "discontinued"]
+  },
+  {
+    "id": "cowlection",
+    "name": "Cowlection",
+    "developers": "cow-mc",
+    "paid": false,
+    "icon": "https://cowtipper.de/images/cow.svg",
+    "github": "https://github.com/cow-mc/Cowlection",
+    "website": "https://cowtipper.de",
+    "discord": "https://discord.gg/cowshed",
+    "tags": ["popular", "skyblock"]
+  },
+  {
+    "id": "dungeons-guide",
+    "name": "Dungeons Guide",
+    "developers": "cyoung06",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/87838487",
+    "github": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide",
+    "discord": "https://discord.gg/vuGsXhY5Bv",
+    "tags": ["popular", "skyblock"]
+  },
+  {
+    "id": "skyblockpersonalized",
+    "name": "SkyblockPersonalized",
+    "developers": "Cobble8",
+    "paid": false,
+    "icon": "https://imgur.com/wX0IedV.png",
+    "github": "https://github.com/Cobble8/SkyblockPersonalized",
+    "discord": "https://discord.gg/hh2qD4ysRA",
+    "tags": ["skyblock"]
+  },
+  {
+    "id": "dungeon-rooms-mod",
+    "name": "Dungeon Rooms Mod",
+    "developers": "Quantizr",
+    "paid": false,
+    "icon": "https://imgur.com/ydVHMVv.png",
+    "github": "https://github.com/Quantizr/DungeonRoomsMod",
+    "discord": "https://discord.gg/yfMYmm2rkX",
+    "website": "https://quantizr.github.io",
+    "tags": ["popular", "skyblock", "discontinued"]
+  },
+  {
+    "id": "dankers-skyblock-mod",
+    "name": "Danker's Skyblock Mod",
+    "developers": "bowser0000",
+    "paid": false,
+    "icon": "https://imgur.com/j2Pwf3n.png",
+    "github": "https://github.com/bowser0000/SkyblockMod",
+    "discord": "https://discord.gg/QsEkNQS",
+    "tags": ["popular", "skyblock"]
+  },
+  {
+    "id": "optifine",
+    "name": "Optifine",
+    "developers": "sp614x",
+    "paid": false,
+    "icon": "https://imgur.com/duRAKcK.png",
+    "github": "https://github.com/sp614x/optifine",
+    "website": "https://www.optifine.net/home",
+    "discord": "https://discord.gg/3mMpcwW",
+    "tags": ["popular", "fps"]
+  },
+  {
+    "id": "bloommodule",
+    "name": "BloomModule",
+    "developers": "UnclaimedBloom6",
+    "icon": "https://forumassets.hypixel.net/data/avatars/m/386/386471.jpg?1590908276",
+    "github": "https://github.com/UnclaimedBloom6/BloomModule",
+    "discord": "https://discord.gg/pykzREcAuZ",
+    "tags": ["skyblock", "ct", "chattriggers"]
+  }
+]

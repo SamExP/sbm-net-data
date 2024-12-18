@@ -1,0 +1,244 @@
+[
+  {
+    "id": "bossbar_customizer",
+    "name": "Aurora Client",
+    "discord": "https://discord.gg/xSXZq7em",
+    "developers": "OctoSplash#6066 and gabagool#1952",
+    "paid": false,
+    "price": "free and 3.99$ for supporter", 
+    "icon": "https://avatars.githubusercontent.com/u/130074601?s=200&v=4",
+    "website": "https://auroraclient.lol",
+    "github": "https://github.com/OctoSplash01/AuroraClient",
+    "tags": ["skyblock", "cheats"]
+  },
+  {
+    "id": "quicker-flipper",
+    "name": "QF",
+    "discord": "https://discord.gg/VymP3ujFAC",
+    "developers": "Domino , Nevo",
+    "paid": true,
+    "price": "50 USD",
+    "icon": "https://imgur.com/Z5cfTAY.png",
+    "tags": ["skyblock", "auction flipper", "auction sniper"]
+  },
+  {
+    "id": "taunahi",
+    "name": "Taunahi",
+    "discord": "https://www.taunahi.net/discord",
+    "developers": "Alex",
+    "paid": true,
+    "price": "19.99",
+    "icon": "https://imgur.com/CC0lKSS.png",
+    "website": "https://www.taunahi.net",
+    "tags": ["skyblock", "cheats"]
+  },
+  {
+    "id": "floppa-client",
+    "name": "Floppa Client",
+    "discord": "https://discord.gg/Cj46vS5qbY", 
+    "developers": "Aton",
+    "paid": false,
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg",
+    "tags": ["skyblock, cheats"]
+  },
+  {
+    "id": "ambient-addons",
+    "name": "Ambient Addons",
+    "github": "https://github.com/appable0/AmbientAddons",
+    "discord": "https://discord.gg/3NF6rGFhNK",
+    "developers": "appable",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/16139460?v=4",
+    "tags": ["skyblock", "cheats"]
+  },
+  {
+    "id": "gmtn",
+    "name": "GumTuneClient",
+    "discord": "https://discord.gg/D9nsGEkYhm",
+    "developers": "RoseGold",
+    "paid": false,
+    "icon": "https://imgur.com/chsDDyx.png",
+    "github": "https://github.com/RoseGoldIsntGay/GumTuneClient",
+    "tags": ["skyblock", "cheats"]  
+  },
+  {
+    "id": "canebuilder",
+    "name": "CaneBuilder",
+    "discord": "https://discord.gg/MQwnhskNBD",
+    "developers": "JellyLab",
+    "paid": false,
+    "icon": "https://imgur.com/j1aY6nR.png",
+    "github": "https://github.com/JellyLabScripts/CaneBuilder",
+    "tags": ["skyblock", "cheats"]
+  },
+  {
+    "id": "mightyminer",
+    "name": "MightyMiner",
+    "discord": "https://discord.gg/MQwnhskNBD",
+    "developers": "JellyLab",
+    "paid": false,
+    "icon": "https://imgur.com/j1aY6nR.png",
+    "github": "https://github.com/JellyLabScripts/MightyMiner",
+    "tags": ["skyblock", "cheats"]
+  },
+  {
+    "id": "jellylab-farmhelper",
+    "name": "FarmHelper",
+    "discord": "discord.gg/MQwnhskNBD",
+    "developers": "JellyLab, nekiak, May2Bee",
+    "paid": false,
+    "icon": "https://imgur.com/j1aY6nR.png",
+    "github": "https://github.com/JellyLabScripts/FarmHelper",
+    "tags": ["popular", "skyblock", "cheats"]
+  },
+  {
+    "id": "pizza-client",
+    "name": "Pizza Client",
+    "developers": "PizzaboiBestLegit",
+    "paid": true,
+    "price": "14.99",
+    "icon": "https://imgur.com/aXJ0Nt4.png",
+    "website": "https://pizzaclient.com/",
+    "discord": "https://discord.com/invite/K99C3apsMH",
+    "tags": ["popular", "skyblock", "cheats", "paid"]
+  },
+  {
+    "id": "oringo-client",
+    "name": "Oringo Client",
+    "developers": "Oringo",
+    "paid": true,
+    "price": "14.99",
+    "icon": "https://imgur.com/8S95QYM.png",
+    "discord": "https://discord.gg/t7NSAdK8ND",
+    "tags": ["popular", "skyblock", "cheats", "pvp", "paid"]
+  },
+  {
+    "id": "funnymap",
+    "name": "FunnyMap",
+    "developers": "Harry282",
+    "paid": false,
+    "icon": "https://imgur.com/I6Hc9v5.png",
+    "discord": "https://discord.gg/kdpfG2tmVD",
+    "github": "https://github.com/Harry282/FunnyMap",
+    "tags": ["skyblock", "cheats"]
+  },
+  {
+    "id": "illegal-map",
+    "name": "Illegal Map",
+    "developers": "UnclaimedBloom6",
+    "icon": "https://forumassets.hypixel.net/data/avatars/m/386/386471.jpg?1590908276",
+    "github": "https://github.com/UnclaimedBloom6/IllegalMap",
+    "discord": "https://discord.gg/pykzREcAuZ",
+    "tags": ["skyblock", "cheats", "ct", "chattriggers"]
+  },
+  {
+    "id": "randomstuff",
+    "name": "RandomStuff",
+    "developers": "UnclaimedBloom6",
+    "icon": "https://forumassets.hypixel.net/data/avatars/m/386/386471.jpg?1590908276",
+    "github": "https://github.com/UnclaimedBloom6/RandomStuff",
+    "discord": "https://discord.gg/pykzREcAuZ",
+    "tags": ["skyblock", "cheats", "ct", "chattriggers"]
+  },
+  {
+    "id": "cheeto-client",
+    "name": "Cheeto Client",
+    "developers": "Apfelsaft",
+    "paid": false,
+    "icon": "https://imgur.com/WnRwpl3.png",
+    "discord": "https://discord.gg/HvUrYdjQmW",
+    "tags": ["popular", "skyblock", "cheats"]
+  },
+  {
+    "id": "cheeto-sigma",
+    "name": "Cheeto Sigma",
+    "developers": "Apfelsaft",
+    "paid": true,
+    "price": "9.99",
+    "icon": "https://imgur.com/WnRwpl3.png",
+    "discord": "https://discord.gg/HvUrYdjQmW",
+    "tags": ["popular", "skyblock", "cheats", "paid"]
+  },
+  {
+    "id": "shadyaddons",
+    "name": "ShadyAddons",
+    "developers": "jxxe",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/96850302",
+    "github": "https://github.com/ShadyAddons",
+    "website": "https://shadyaddons.com",
+    "discord": "https://discord.gg/q2xyb9hbjY",
+    "tags": ["skyblock", "cheats", "discontinued"]
+  },
+  {
+    "id": "rosegoldaddons",
+    "name": "RoseGoldAddons",
+    "developers": "RoseGold",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/76526946",
+    "github": "https://github.com/RoseGoldIsntGay/RGA",
+    "tags": ["skyblock", "cheats", "discontinued"]
+  },
+  {
+    "id": "skyblockclient",
+    "name": "SkyblockClient",
+    "developers": "Harry282",
+    "paid": false,
+    "icon": "https://imgur.com/I6Hc9v5.png",
+    "github": "https://github.com/Harry282/Skyblock-Client",
+    "website": "https://harry282.github.io/Skyblock-Client/",
+    "discord": "https://discord.gg/kdpfG2tmVD",
+    "tags": ["popular", "skyblock", "cheats"]
+  },
+  {
+    "id": "egom-scripts",
+    "name": "Egom Scripts",
+    "developers": "Egom",
+    "paid": true,
+    "price": "10.00",
+    "icon": "https://imgur.com/tFr7ulW.png",
+    "discord": "https://discord.gg/K7jg34Nv2N",
+    "tags": ["skyblock", "cheats", "paid"]
+  },
+  {
+    "id": "nekoqol",
+    "name": "NekoQOL",
+    "developers": "Azael, SemiMute",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/66936848",
+    "github": "https://github.com/AzaelMew/NekoQOL",
+    "tags": ["skyblock", "cheats", "ct", "chattriggers"]
+  },
+  {
+    "id": "skyskipped",
+    "name": "SkySkipped",
+    "developers": "Cephetir, TrashiestPanda",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/62209929",
+    "github": "https://github.com/Cephetir/SkySkipped",
+    "website": "https://skyskipped-website.vercel.app",
+    "discord": "https://discord.gg/skyskipped2",
+    "tags": ["popular", "skyblock", "cheats"]
+  },
+  {
+    "id": "binmaster",
+    "name": "binmaster",
+    "developers": "aesthetic",
+    "paid": true,
+    "price": "30.00",
+    "icon": "https://imgur.com/HlPHBJA.png",
+    "discord": "https://discord.gg/binmaster",
+    "website": "https://binmaster.pro",
+    "tags": ["popular", "skyblock", "cheats", "paid"]
+  },
+  {
+    "id": "enderflame-scripts",
+    "name": "EnderFlame Scripts",
+    "developers": "EnderFlame",
+    "paid": true,
+    "price": "20.00",
+    "icon": "https://imgur.com/t2t9VwI.png",
+    "discord": "https://discord.gg/enderflame",
+    "tags": ["skyblock", "cheats", "paid"]
+  }
+]
