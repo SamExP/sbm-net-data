@@ -21,7 +21,7 @@
   {
     "id": "dulkirmod",
     "name": "DulkirMod",
-    "developers": "glettronald, hannibal002, GodOfProDev",
+    "developers": "inglettronald, hannibal002, GodOfProDev",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/71849533?v=4", 
     "github": "https://github.com/inglettronald/DulkirMod", 
@@ -229,16 +229,6 @@
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/12858993",
     "github": "https://github.com/NotEnoughUpdates/NotEnoughUpdates",
-    "tags": ["popular", "skyblock"]
-  },
-  {
-    "id": "hychat",
-    "name": "Hychat",
-    "developers": "Moulberry",
-    "discord": "https://discord.gg/moulberry",
-    "paid": false,
-    "icon": "https://avatars.githubusercontent.com/u/12858993",
-    "github": "https://github.com/Moulberry/Hychat",
     "tags": ["popular", "skyblock"]
   },
   {
