@@ -1,15 +1,5 @@
 [ 
   {
-    "id": "skyhanni", 
-    "name": "SkyHanni",
-    "discord": "https://discord.com/invite/skyhanni-997079228510117908",
-    "developers": "hannibal002",
-    "paid": false,
-    "icon": "https://cdn.modrinth.com/data/byNkmv5G/7c81da8a6402c03c58c009e1e942ddf623c42086.png", 
-    "github": "https://github.com/hannibal002/SkyHanni/releases",
-    "tags": ["popular","skyblock"]
-  },
-  {
     "id": "odin", 
     "name": "Odin",
     "discord": "https://discord.gg/2nCbC9hkxT",
