@@ -1,4 +1,113 @@
-[ 
+[
+  {
+    "id": "skyclient",
+    "name": "SkyClient",
+    "developers": "Wyvest, koxx12-dev",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/90349969?s=48&v=4",
+    "github": "https://github.com/SkyblockClient/SkyClient-Windows",
+    "tags": ["skyblock", "utility"]
+  },
+  {
+    "id": "hytilities",
+    "name": "Hytilities",
+    "discord": "https://discord.gg/sk1er",
+    "developers": "Sk1er",
+    "paid": false,
+    "icon": "https://imgur.com/YhHaso1.png",
+    "github": "https://github.com/Sk1erLLC/Hytilities",
+    "tags": ["skyblock", "qol", "discontinued"]
+  },
+  {
+    "id": "fancywarpmenu",
+    "name": "Fancy Warp Menu",
+    "discord": "https://discord.gg/tXFf9umfA9",
+    "developers": "ILikePlayingGames",
+    "paid": false,
+    "icon": "https://github.com/ILikePlayingGames/FancyWarpMenu/blob/main/src/main/resources/assets/fancywarpmenu/textures/gui/Logo.png?raw=true",
+    "github": "https://github.com/ILikePlayingGames/FancyWarpMenu",
+    "tags": ["skyblock", "utility"]
+  },
+  {
+    "id": "sbhub",
+    "name": "SkyblockHUD",
+    "discord": "https://discord.gg/moulberry",
+    "developers": "ThatGravyBoat",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/26934102?s=48&v=4",
+    "github": "https://github.com/ThatGravyBoat/SkyblockHud",
+    "tags": ["skyblock", "hud", "discontinued"]
+  },
+  {
+    "id": "apec",
+    "name": "Apec",
+    "discord": "https://discord.gg/YXrJzpY",
+    "developers": "BananaFructa",
+    "paid": false,
+    "icon": "https://github.com/BananaFructa/Apec/blob/master/src/main/resources/apecLogo.png?raw=true",
+    "github": "https://github.com/BananaFructa/Apec",
+    "tags": ["skyblock", "hud"]
+  },
+  {
+    "id": "bazaar-notifier",
+    "name": "BazaarNotifier",
+    "discord": "https://discord.com/invite/wjpJSVSwvD",
+    "developers": "symt",
+    "paid": false,
+    "icon": "https://i.imgur.com/2F1ONW7.png",
+    "github": "https://github.com/symt/BazaarNotifier",
+    "tags": ["skyblock", "utility"]
+  },
+  {
+    "id": "skyguide",
+    "name": "SkyGuide",
+    "discord": "https://discord.gg/XtAuqsJWby",
+    "developers": "DeDiamondPro",
+    "paid": false,
+    "icon": "https://cdn.modrinth.com/data/2BXykn9u/ad560c33dc58b9b03b66c9af594dfb94f5ad246c_96.webp",
+    "github": "https://github.com/DeDiamondPro/SkyGuide",
+    "tags": ["skyblock", "guide"]
+  },
+  {
+    "id": "scathapro",
+    "name": "Scatha-Pro",
+    "discord": "https://discord.gg/scatha-farmers-898827889145942056",
+    "developers": "NamelessJu",
+    "paid": false,
+    "icon": "https://cdn.modrinth.com/data/lPe25xOt/4db9ff58d60cd691de819b6013f42a8695586e40_96.webp",
+    "github": "https://github.com/NamelessJu/Scatha-Pro",
+    "tags": ["skyblock", "qol"]
+  },
+  {
+    "id": "popup_events",
+    "name": "Popup Events",
+    "discord": "https://discord.gg/sk1er",
+    "developers": "Sk1er",
+    "paid": false,
+    "icon": "https://imgur.com/YhHaso1.png",
+    "website": "https://sk1er.club/mods/popup_events",
+    "tags": ["hypixel", "qol"]
+  },
+  {
+    "id": "hypixel_autocomplete",
+    "name": "Hypixel Autocomplete",
+    "discord": "https://discord.gg/sk1er",
+    "developers": "Sk1er",
+    "paid": false,
+    "icon": "https://imgur.com/YhHaso1.png",
+    "website": "https://sk1er.club/mods/hypixel_auto_complete",
+    "tags": ["hypixel", "utility"]
+  },
+  {
+    "id": "hychat",
+    "name": "HyChat",
+    "discord": "https://discord.gg/moulberry",
+    "developers": "Moulberry",
+    "paid": false,
+    "icon": "https://avatars.githubusercontent.com/u/12858993?v=4",
+    "github": "https://github.com/Moulberry/Hychat",
+    "tags": ["hypixel", "utility"]
+  },
   {
     "id": "skyhanni", 
     "name": "SkyHanni",
