@@ -7,7 +7,7 @@
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/90349969?s=48&v=4",
     "website": "https://skyclient.co/",
-    "readme": "https://github.com/SkyblockClient/SkyClient-Windows/blob/main/README.MD",
+    "readme": "https://raw.githubusercontent.com/SkyblockClient/SkyClient-Windows/refs/heads/main/README.MD",
     "github": "https://github.com/SkyblockClient/SkyClient-Windows",
     "tags": ["skyblock", "utility"]
   },
