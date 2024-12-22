@@ -1,34 +1,35 @@
 [
   {
-    "id": "bossbar_customizer",
+    "id": "aurora-client",
     "name": "Aurora Client",
     "discord": "https://discord.gg/xSXZq7em",
-    "developers": "OctoSplash#6066 and gabagool#1952",
+    "developers": "OctoSplash and gabagool",
     "paid": false,
-    "price": "free and 3.99$ for supporter", 
     "icon": "https://avatars.githubusercontent.com/u/130074601?s=200&v=4",
-    "website": "https://auroraclient.lol",
+    "readme": "https://raw.githubusercontent.com/AuroraQoL/AuroraClient/refs/heads/main/README.md",
     "github": "https://github.com/OctoSplash01/AuroraClient",
+    "website": "https://auroraclient.lol",
     "tags": ["skyblock", "cheats"]
   },
   {
-    "id": "odinclient", 
+    "id": "odin-client", 
     "name": "OdinClient",
     "discord": "https://discord.gg/2nCbC9hkxT",
     "developers": "odtheking",
     "paid": false,
     "icon": "https://i.imgur.com/bULLRVc.png", 
-    "website": "https://odtheking.github.io/Odin/cheater",
+    "readme": "https://raw.githubusercontent.com/odtheking/Odin/refs/heads/main/README.md",
     "github": "https://github.com/odtheking/Odin",
+    "website": "https://odtheking.github.io/Odin/cheater",
     "tags": ["skyblock", "cheats"]
   },
   {
     "id": "quicker-flipper",
     "name": "QF",
     "discord": "https://discord.gg/VymP3ujFAC",
-    "developers": "Domino , Nevo",
+    "developers": "Domino, Nevo",
     "paid": true,
-    "price": "50 USD",
+    "price": "50.00",
     "icon": "https://imgur.com/Z5cfTAY.png",
     "tags": ["skyblock", "auction flipper", "auction sniper"]
   },
@@ -63,12 +64,13 @@
     "tags": ["skyblock", "cheats"]
   },
   {
-    "id": "gmtn",
+    "id": "gumtune",
     "name": "GumTuneClient",
     "discord": "https://discord.gg/D9nsGEkYhm",
     "developers": "RoseGold",
     "paid": false,
     "icon": "https://imgur.com/chsDDyx.png",
+    "readme": "https://raw.githubusercontent.com/RoseGoldIsntGay/GumTuneClient/refs/heads/main/README.md",
     "github": "https://github.com/RoseGoldIsntGay/GumTuneClient",
     "tags": ["skyblock", "cheats"]  
   },
@@ -89,6 +91,7 @@
     "developers": "JellyLab",
     "paid": false,
     "icon": "https://imgur.com/j1aY6nR.png",
+    "readme": "https://raw.githubusercontent.com/JellyLabScripts/MightyMiner/refs/heads/master/README.md",
     "github": "https://github.com/JellyLabScripts/MightyMiner",
     "tags": ["skyblock", "cheats"]
   },
@@ -99,6 +102,7 @@
     "developers": "JellyLab, nekiak, May2Bee",
     "paid": false,
     "icon": "https://imgur.com/j1aY6nR.png",
+    "readme": "https://raw.githubusercontent.com/JellyLabScripts/FarmHelper/refs/heads/master/README.md",
     "github": "https://github.com/JellyLabScripts/FarmHelper",
     "tags": ["popular", "skyblock", "cheats"]
   },
@@ -130,25 +134,28 @@
     "paid": false,
     "icon": "https://imgur.com/I6Hc9v5.png",
     "discord": "https://discord.gg/kdpfG2tmVD",
+    "readme": "https://raw.githubusercontent.com/Harry282/FunnyMap/refs/heads/master/README.md",
     "github": "https://github.com/Harry282/FunnyMap",
     "tags": ["skyblock", "cheats"]
   },
   {
     "id": "illegal-map",
     "name": "Illegal Map",
+    "discord": "https://discord.gg/pykzREcAuZ",
     "developers": "UnclaimedBloom6",
     "icon": "https://forumassets.hypixel.net/data/avatars/m/386/386471.jpg?1590908276",
+    "readme": "https://raw.githubusercontent.com/UnclaimedBloom6/IllegalMap/refs/heads/main/README.md",
     "github": "https://github.com/UnclaimedBloom6/IllegalMap",
-    "discord": "https://discord.gg/pykzREcAuZ",
     "tags": ["skyblock", "cheats", "ct", "chattriggers"]
   },
   {
     "id": "randomstuff",
     "name": "RandomStuff",
+    "discord": "https://discord.gg/pykzREcAuZ",
     "developers": "UnclaimedBloom6",
     "icon": "https://forumassets.hypixel.net/data/avatars/m/386/386471.jpg?1590908276",
+    "reeadme": "https://raw.githubusercontent.com/UnclaimedBloom6/RandomStuff/refs/heads/main/README.md",
     "github": "https://github.com/UnclaimedBloom6/RandomStuff",
-    "discord": "https://discord.gg/pykzREcAuZ",
     "tags": ["skyblock", "cheats", "ct", "chattriggers"]
   },
   {
@@ -173,12 +180,13 @@
   {
     "id": "shadyaddons",
     "name": "ShadyAddons",
+    "discord": "https://discord.gg/q2xyb9hbjY",
     "developers": "jxxe",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/96850302",
-    "github": "https://github.com/ShadyAddons",
+    "readme": "https://raw.githubusercontent.com/ShadyAddons/ShadyAddons/refs/heads/main/README.md",
+    "github": "https://github.com/ShadyAddons/ShadyAddons",
     "website": "https://shadyaddons.com",
-    "discord": "https://discord.gg/q2xyb9hbjY",
     "tags": ["skyblock", "cheats", "discontinued"]
   },
   {
@@ -187,18 +195,20 @@
     "developers": "RoseGold",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/76526946",
+    "readme": "https://raw.githubusercontent.com/RoseGoldIsntGay/RGA/refs/heads/master/README.md",
     "github": "https://github.com/RoseGoldIsntGay/RGA",
     "tags": ["skyblock", "cheats", "discontinued"]
   },
   {
     "id": "skyblockclient",
     "name": "SkyblockClient",
+    "discord": "https://discord.gg/kdpfG2tmVD",
     "developers": "Harry282",
     "paid": false,
     "icon": "https://imgur.com/I6Hc9v5.png",
+    "readme": "https://raw.githubusercontent.com/Harry282/Skyblock-Client/refs/heads/main/README.md",
     "github": "https://github.com/Harry282/Skyblock-Client",
     "website": "https://harry282.github.io/Skyblock-Client/",
-    "discord": "https://discord.gg/kdpfG2tmVD",
     "tags": ["popular", "skyblock", "cheats"]
   },
   {
@@ -217,18 +227,20 @@
     "developers": "Azael, SemiMute",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/66936848",
+    "readme": "https://raw.githubusercontent.com/AzaelMew/NekoQOL/refs/heads/main/README.md",
     "github": "https://github.com/AzaelMew/NekoQOL",
     "tags": ["skyblock", "cheats", "ct", "chattriggers"]
   },
   {
     "id": "skyskipped",
     "name": "SkySkipped",
+    "discord": "https://discord.gg/skyskipped2",
     "developers": "Cephetir, TrashiestPanda",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/62209929",
+    "readme": "https://raw.githubusercontent.com/Cephetir/SkySkipped/refs/heads/kotlin/README.md",
     "github": "https://github.com/Cephetir/SkySkipped",
     "website": "https://skyskipped-website.vercel.app",
-    "discord": "https://discord.gg/skyskipped2",
     "tags": ["popular", "skyblock", "cheats"]
   },
   {
