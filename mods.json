@@ -6,6 +6,8 @@
     "developers": "Wyvest, koxx12-dev",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/90349969?s=48&v=4",
+    "website:" "https://skyclient.co/",
+    "readme:" "https://github.com/SkyblockClient/SkyClient-Windows/blob/main/README.MD",
     "github": "https://github.com/SkyblockClient/SkyClient-Windows",
     "tags": ["skyblock", "utility"]
   },
@@ -253,7 +255,7 @@
   {
     "id": "chattriggers",
     "name": "ChatTriggers",
-    "discord": "discord.gg/chattriggers",
+    "discord": "https://discord.gg/chattriggers",
     "developers": "FalseHonesty, Ecolsson, kerbybit",
     "paid": false,
     "icon": "https://imgur.com/qMURfpp.png",
