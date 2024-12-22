@@ -28,7 +28,7 @@
     "developers": "ILikePlayingGames",
     "paid": false,
     "icon": "https://github.com/ILikePlayingGames/FancyWarpMenu/blob/main/src/main/resources/assets/fancywarpmenu/textures/gui/Logo.png?raw=true",
-    "readme": "https://github.com/ILikePlayingGames/FancyWarpMenu/blob/main/README.md",
+    "readme": "https://github.com/ILikePlayingGames/FancyWarpMenu/raw/refs/heads/main/README.md",
     "github": "https://github.com/ILikePlayingGames/FancyWarpMenu",
     "tags": ["skyblock", "utility"]
   },
@@ -39,7 +39,7 @@
     "developers": "ThatGravyBoat",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/26934102?s=48&v=4",
-    "readme": "https://github.com/ThatGravyBoat/SkyblockHud/blob/master/README.md",
+    "readme": "https://github.com/ThatGravyBoat/SkyblockHud/raw/refs/heads/master/README.md",
     "github": "https://github.com/ThatGravyBoat/SkyblockHud",
     "tags": ["skyblock", "hud", "discontinued"]
   },
@@ -50,7 +50,7 @@
     "developers": "BananaFructa",
     "paid": false,
     "icon": "https://github.com/BananaFructa/Apec/blob/master/src/main/resources/apecLogo.png?raw=true",
-    "readme": "https://github.com/BananaFructa/Apec/blob/master/README.md",
+    "readme": "https://github.com/BananaFructa/Apec/raw/refs/heads/master/README.md",
     "github": "https://github.com/BananaFructa/Apec",
     "tags": ["skyblock", "hud"]
   },
@@ -61,7 +61,7 @@
     "developers": "symt",
     "paid": false,
     "icon": "https://i.imgur.com/2F1ONW7.png",
-    "readme": "https://github.com/symt/BazaarNotifier/blob/master/README.md",
+    "readme": "https://github.com/symt/BazaarNotifier/raw/refs/heads/master/README.md",
     "github": "https://github.com/symt/BazaarNotifier",
     "tags": ["skyblock", "utility"]
   },
@@ -72,7 +72,7 @@
     "developers": "DeDiamondPro",
     "paid": false,
     "icon": "https://cdn.modrinth.com/data/2BXykn9u/ad560c33dc58b9b03b66c9af594dfb94f5ad246c_96.webp",
-    "readme": "https://github.com/DeDiamondPro/SkyGuide/blob/main/README.md",
+    "readme": "https://github.com/DeDiamondPro/SkyGuide/raw/refs/heads/main/README.md",
     "github": "https://github.com/DeDiamondPro/SkyGuide",
     "tags": ["skyblock", "guide"]
   },
@@ -83,7 +83,7 @@
     "developers": "NamelessJu",
     "paid": false,
     "icon": "https://cdn.modrinth.com/data/lPe25xOt/4db9ff58d60cd691de819b6013f42a8695586e40_96.webp",
-    "readme": "https://github.com/NamelessJu/Scatha-Pro/blob/main/readme.md",
+    "readme": "https://github.com/NamelessJu/Scatha-Pro/raw/refs/heads/main/readme.md",
     "github": "https://github.com/NamelessJu/Scatha-Pro",
     "tags": ["skyblock", "qol"]
   },
@@ -105,8 +105,8 @@
     "developers": "Sk1er",
     "paid": false,
     "icon": "https://imgur.com/YhHaso1.png",
-    "website": "https://sk1er.club/mods/hypixel_auto_complete",
     "github": "https://github.com/Sk1erLLC/Hypixel-Autocomplete-Mod",
+    "website": "https://sk1er.club/mods/hypixel_auto_complete",
     "tags": ["hypixel", "utility"]
   },
   {
@@ -126,7 +126,7 @@
     "developers": "hannibal002",
     "paid": false,
     "icon": "https://cdn.modrinth.com/data/byNkmv5G/7c81da8a6402c03c58c009e1e942ddf623c42086.png", 
-    "readme": "https://github.com/hannibal002/SkyHanni/blob/beta/README.md",
+    "readme": "https://github.com/hannibal002/SkyHanni/raw/refs/heads/beta/README.md",
     "github": "https://github.com/hannibal002/SkyHanni",
     "tags": ["popular","skyblock"]
   },
@@ -144,13 +144,14 @@
   },
   {
     "id": "oneconfig",
-    "name": "Polyfrost",
+    "name": "OneConfig",
     "discord": "https://inv.wtf/polyfrost",
     "developers": "Polyfrost Team",
     "paid": false,
     "icon": "https://imgur.com/HPrBpF9.png", 
-    "readme": "https://github.com/Polyfrost/OneConfig/blob/develop-v0/README.md",
+    "readme": "https://github.com/Polyfrost/OneConfig/raw/refs/heads/develop-v0/README.md",
     "github": "https://github.com/Polyfrost/OneConfig",
+    "website": "https://polyfrost.org/",
     "tags": ["fps", "pvp"] 
   },
   {
@@ -159,7 +160,7 @@
     "developers": "inglettronald, hannibal002, GodOfProDev",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/71849533?v=4", 
-    "readme": "https://github.com/inglettronald/DulkirMod/blob/master/README.md",
+    "readme": "https://github.com/inglettronald/DulkirMod/raw/refs/heads/master/README.md",
     "github": "https://github.com/inglettronald/DulkirMod", 
     "tags": ["popular", "skyblock"]
   },
@@ -169,7 +170,7 @@
     "developers": "boomboompower",
     "paid": false,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg",
-    "readme": "https://github.com/boomboompower/ToggleChat/blob/master/README.md",
+    "readme": "https://github.com/boomboompower/ToggleChat/raw/refs/heads/master/README.md",
     "github": "https://github.com/boomboompower/ToggleChat",
     "tags": ["skyblock", "discontinued"]
   },
@@ -189,7 +190,7 @@
     "developers": "prplz",
     "paid": false,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg",
-    "readme": "https://github.com/prplz/Skypixel/blob/master/README.md",
+    "readme": "https://github.com/prplz/Skypixel/raw/refs/heads/master/README.md",
     "github": "https://github.com/prplz/Skypixel",
     "tags": ["skyblock", "discontinued"]
   },
@@ -219,7 +220,7 @@
     "developers": "Semx11, 2Pi, Sk1er",
     "paid": false,
     "icon": "https://imgur.com/YhHaso1.png",
-    "readme": "https://github.com/Semx11/Autotip/blob/master/README.md",
+    "readme": "https://github.com/Semx11/Autotip/raw/refs/heads/master/README.md",
     "github": "https://github.com/Semx11/Autotip", 
     "website": "https://autotip.pro/", 
     "tags": ["utility"]
@@ -231,7 +232,7 @@
     "developers": "Zlepper, Paint_Ninja",
     "paid": false,
     "icon": "https://upload.wikimedia.org/wikipedia/commons/1/14/No_Image_Available.jpg",
-    "readme": "https://github.com/zlepper/itlt/blob/master/README.md",
+    "readme": "https://github.com/zlepper/itlt/raw/refs/heads/master/README.md",
     "github": "https://github.com/zlepper/itlt",
     "website": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/",
     "tags": ["fps", "utility"]
@@ -254,7 +255,7 @@
     "developers": "Sk1er",
     "paid": false,
     "icon": "https://imgur.com/YhHaso1.png",
-    "readme": "https://github.com/Sk1erLLC/Patcher/blob/master/README.md",
+    "readme": "https://github.com/Sk1erLLC/Patcher/raw/refs/heads/master/README.md",
     "github": "https://github.com/Sk1erLLC/Patcher",
     "website": "https://sk1er.club/mods/patcher",
     "tags": ["popular","fps"]
@@ -266,7 +267,7 @@
     "developers": "FalseHonesty, Ecolsson, kerbybit",
     "paid": false,
     "icon": "https://imgur.com/qMURfpp.png",
-    "readme": "https://github.com/ChatTriggers/ChatTriggers/blob/master/README.md",
+    "readme": "https://github.com/ChatTriggers/ChatTriggers/raw/refs/heads/master/README.md",
     "github": "https://github.com/ChatTriggers/ChatTriggers",
     "website": "https://www.chattriggers.com",
     "tags": ["popular", "ct", "chattriggers"]
@@ -289,7 +290,7 @@
     "paid": true,
     "price": "7.00",
     "icon": "https://imgur.com/6wFW1NY.png",
-    "readme": "https://github.com/Coflnet/SkyblockMod/blob/main/README.md",
+    "readme": "https://github.com/Coflnet/SkyblockMod/raw/refs/heads/main/README.md",
     "github": "https://github.com/Coflnet/SkyblockMod/",
     "website": "https://sky.coflnet.com/",
     "tags": ["popular", "skyblock", "paid"]
@@ -312,7 +313,7 @@
     "developers": "Sychic, lily",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/78452287",
-    "readme": "https://github.com/Skytils/SkytilsMod/blob/1.x/README.md",
+    "readme": "https://github.com/Skytils/SkytilsMod/raw/refs/heads/1.x/README.md",
     "github": "https://github.com/Skytils/SkytilsMod",
     "tags": ["popular", "skyblock"]
   },
@@ -322,7 +323,7 @@
     "developers": "SteveKunG",
     "paid": false,
     "icon": "https://media.forgecdn.net/avatars/288/186/637310718220929564.png",
-    "readme": "https://github.com/SteveKunG/SkyBlockcatia/blob/1.8.9/README.md",
+    "readme": "https://github.com/SteveKunG/SkyBlockcatia/raw/refs/heads/1.8.9/README.md",
     "github": "https://github.com/SteveKunG/SkyBlockcatia",
     "tags": ["skyblock", "discontinued"]
   },
@@ -333,7 +334,7 @@
     "developers": "Biscuit",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/56459009",
-    "readme": "https://github.com/BiscuitDevelopment/SkyblockAddons/blob/main/README.md",
+    "readme": "https://github.com/BiscuitDevelopment/SkyblockAddons/raw/refs/heads/main/README.md",
     "github": "https://github.com/BiscuitDevelopment/SkyblockAddons",
     "website": "https://biscuit.codes/mods/skyblockaddons/",
     "tags": ["popular", "skyblock", "discontinued"]
@@ -345,7 +346,7 @@
     "developers": "Soopyboo32",
     "paid": false,
     "icon": "https://imgur.com/xj03fye.png",
-    "readme": "https://github.com/Soopyboo32/SoopyV2/blob/master/README.md",
+    "readme": "https://github.com/Soopyboo32/SoopyV2/raw/refs/heads/master/README.md",
     "github": "https://github.com/Soopyboo32/SoopyV2",
     "website": "https://soopy.dev",
     "tags": ["popular", "skyblock", "discontinued", "ct", "chattriggers"]
@@ -357,7 +358,7 @@
     "developers": "Moulberry, Nea, Jani",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/12858993",
-    "readme": "https://github.com/NotEnoughUpdates/NotEnoughUpdates/blob/master/README.md",
+    "readme": "https://github.com/NotEnoughUpdates/NotEnoughUpdates/raw/refs/heads/master/README.md",
     "github": "https://github.com/NotEnoughUpdates/NotEnoughUpdates",
     "tags": ["popular", "skyblock"]
   },
@@ -377,7 +378,7 @@
     "developers": "cow-mc",
     "paid": false,
     "icon": "https://cowtipper.de/images/cow.svg",
-    "readme": "https://github.com/cow-mc/Cowlection/blob/master/README.md",
+    "readme": "https://github.com/cow-mc/Cowlection/raw/refs/heads/master/README.md",
     "github": "https://github.com/cow-mc/Cowlection",
     "website": "https://cowtipper.de",
     "tags": ["popular", "skyblock"]
@@ -389,7 +390,7 @@
     "developers": "cyoung06",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/87838487",
-    "readme": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/blob/dg4.0/README.md",
+    "readme": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/raw/refs/heads/dg4.0/README.md",
     "github": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide",
     "tags": ["popular", "skyblock"]
   },
@@ -410,7 +411,7 @@
     "developers": "Quantizr",
     "paid": false,
     "icon": "https://imgur.com/ydVHMVv.png",
-    "readme": "https://github.com/Quantizr/DungeonRoomsMod/blob/3.x/README.md",
+    "readme": "https://github.com/Quantizr/DungeonRoomsMod/raw/refs/heads/3.x/README.md",
     "github": "https://github.com/Quantizr/DungeonRoomsMod",
     "website": "https://quantizr.github.io",
     "tags": ["popular", "skyblock"]
@@ -422,7 +423,7 @@
     "developers": "bowser0000",
     "paid": false,
     "icon": "https://imgur.com/j2Pwf3n.png",
-    "readme": "https://github.com/bowser0000/SkyblockMod/blob/master/README.md",
+    "readme": "https://github.com/bowser0000/SkyblockMod/raw/refs/heads/master/README.md",
     "github": "https://github.com/bowser0000/SkyblockMod",
     "tags": ["popular", "skyblock"]
   },
@@ -443,7 +444,7 @@
     "discord": "https://discord.gg/pykzREcAuZ",
     "developers": "UnclaimedBloom6",
     "icon": "https://forumassets.hypixel.net/data/avatars/m/386/386471.jpg?1590908276",
-    "readme": "https://github.com/UnclaimedBloom6/BloomModule/blob/main/README.md",
+    "readme": "https://github.com/UnclaimedBloom6/BloomModule/raw/refs/heads/main/README.md",
     "github": "https://github.com/UnclaimedBloom6/BloomModule",
     "tags": ["skyblock", "ct", "chattriggers"]
   }
