@@ -2,8 +2,8 @@
   {
     "id": "aurora-client",
     "name": "Aurora Client",
-    "discord": "https://discord.gg/xSXZq7em",
-    "developers": "OctoSplash and gabagool",
+    "discord": "https://api.auroraclient.lol/invite",
+    "developers": "OctoSplash, gabagool",
     "paid": false,
     "icon": "https://avatars.githubusercontent.com/u/130074601?s=200&v=4",
     "readme": "https://raw.githubusercontent.com/AuroraQoL/AuroraClient/refs/heads/main/README.md",
@@ -66,7 +66,7 @@
   {
     "id": "gumtune",
     "name": "GumTuneClient",
-    "discord": "https://discord.gg/D9nsGEkYhm",
+    "discord": "https://gumtune.net/discord",
     "developers": "RoseGold",
     "paid": false,
     "icon": "https://imgur.com/chsDDyx.png",
@@ -96,9 +96,9 @@
     "tags": ["skyblock", "cheats"]
   },
   {
-    "id": "jellylab-farmhelper",
+    "id": "jellylab-afarmhelper",
     "name": "FarmHelper",
-    "discord": "discord.gg/MQwnhskNBD",
+    "discord": "https://discord.gg/MQwnhskNBD",
     "developers": "JellyLab, nekiak, May2Bee",
     "paid": false,
     "icon": "https://imgur.com/j1aY6nR.png",
@@ -113,8 +113,8 @@
     "paid": true,
     "price": "14.99",
     "icon": "https://imgur.com/aXJ0Nt4.png",
-    "website": "https://pizzaclient.com/",
-    "discord": "https://discord.com/invite/K99C3apsMH",
+    "website": "https://pizzaclient.net",
+    "discord": "https://pizzaclient.net/discord",
     "tags": ["popular", "skyblock", "cheats", "paid"]
   },
   {
@@ -253,15 +253,5 @@
     "discord": "https://discord.gg/binmaster",
     "website": "https://binmaster.pro",
     "tags": ["popular", "skyblock", "cheats", "paid"]
-  },
-  {
-    "id": "enderflame-scripts",
-    "name": "EnderFlame Scripts",
-    "developers": "EnderFlame",
-    "paid": true,
-    "price": "20.00",
-    "icon": "https://imgur.com/t2t9VwI.png",
-    "discord": "https://discord.gg/enderflame",
-    "tags": ["skyblock", "cheats", "paid"]
   }
 ]
